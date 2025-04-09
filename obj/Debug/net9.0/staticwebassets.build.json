@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NQhti+0PGAC8ReMU+/vfms0pAWh5qiqFJ+zGXXUbGNc=",
+  "Source": "library-microservice",
+  "BasePath": "_content/library-microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

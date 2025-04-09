@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nuKasKrmCA=",
+  "success": true,
+  "projectFilePath": "/Users/aezechi/Library Microservice/library-microservice/Services/Books/Books.Domain/Books.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/aezechi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/aezechi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

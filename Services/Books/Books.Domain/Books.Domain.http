@@ -1,0 +1,6 @@
+@Books.Domain_HostAddress = http://localhost:5180
+
+GET {{Books.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
