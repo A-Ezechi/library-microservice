@@ -12,14 +12,6 @@ namespace library_microservice.Services.Books.Books.Application.Orders.Commands.
         {
             this.session = session ?? throw new ArgumentNullException(nameof(session));
         }
-
-        /// <summary>
-        /// Handles the addition of a new book to the library.
-        /// </summary>
-        /// 
-        /// <param name="command">The command containing the details of the book to be added.</param>
-        /// <param name="cancellationToken">A token to monitor for cancellation requests.</param>
-        /// <returns>An <see cref="AddBookResponse"/> indicating the success or failure of the operation.</returns>
         
         public async Task<AddBookResponse> Handle(AddBookCommand command, CancellationToken cancellationToken)
         {

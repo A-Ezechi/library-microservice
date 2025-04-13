@@ -18,5 +18,12 @@ namespace library_microservice.Services.Books.Books.Application.Orders.Commands.
             await session.SaveChangesAsync(cancellationToken);
             return new DeleteBookResponse(true, "Book deleted successfully");
         }
+
+        private async Task DeleteBook()
+        {
+            var deletedBook = await session
+                .Query<DeleteBookCommand>()
+                .FirstOrDefaultAsync(x => x.Id == command.Id, cancellationToken) ?? throw new NotFoundException(command.Id);
+        }
     }
 }

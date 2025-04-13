@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
             "Marten": {
               "target": "Package",
               "version": "[7.39.5, )"

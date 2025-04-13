@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aSy+gTiQrkw=",
+  "dgSpecHash": "ben34QLuYMA=",
   "success": true,
   "projectFilePath": "/Users/aezechi/Library Microservice/library-microservice/library-microservice.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "/Users/aezechi/.nuget/packages/jasperfx.codegeneration/3.7.2/jasperfx.codegeneration.3.7.2.nupkg.sha512",
     "/Users/aezechi/.nuget/packages/jasperfx.core/1.12.0/jasperfx.core.1.12.0.nupkg.sha512",
     "/Users/aezechi/.nuget/packages/jasperfx.runtimecompiler/3.7.2/jasperfx.runtimecompiler.3.7.2.nupkg.sha512",
+    "/Users/aezechi/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/aezechi/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
     "/Users/aezechi/.nuget/packages/marten/7.39.5/marten.7.39.5.nupkg.sha512",
     "/Users/aezechi/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
     "/Users/aezechi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
